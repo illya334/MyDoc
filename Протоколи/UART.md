@@ -11,7 +11,7 @@ S - швидкість передачі (бод), зазвичай це: 300, 60
 
 Можливі види сигналу:
 
-!(https://github.com/illya334/MyDoc/blob/main/img/packageSchedule.png)
+![alt-text](https://github.com/illya334/MyDoc/blob/main/img/packageSchedule.png)
 
 idle - очікування сигналу.
 start bit - біт початку передачі.
