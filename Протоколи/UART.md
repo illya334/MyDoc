@@ -6,12 +6,12 @@ UART (Universal Asynchronous Receiver-Transmitter) - універсальний 
 
 
 
-T - час одного біта або всього покету.
+T - час одного біта або всього покету. <br>
 S - швидкість передачі (бод), зазвичай це: 300, 600, 1200, 2400, 4800, 9600, 19200, 38400, 57600, 115200, 230400, 460800, 921600 бод.
 
 Можливі види сигналу:
 
-![alt-text](https://github.com/illya334/MyDoc/blob/main/img/packageSchedule.png)
+![alt-text](../img/packageSchedule.png)
 
 idle - очікування сигналу.
 start bit - біт початку передачі.
