@@ -49,5 +49,6 @@ stop bit 2 - ще один стоп біт, потрібен через пере
 </table>
 <br>
 Приклад: <br>
+Передача сивола '1' = 49 = 0b00110001;<br>
 
 ![alt-text](../img/ExampleScheduleUART.PNG)
