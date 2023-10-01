@@ -3,11 +3,11 @@
 ## <a id="VideoMode">Відеорежими</a>
 (Повна таблиця <a href="http://www.columbia.edu/~em36/wpdos/videomodes.txt">тут [url]</a>)
 
- - 01h - 40x25   (text mode, 16 colors) [B800]
- - 03h - 80x25   (text mode, 16 colors, default in DOS) [B800]
- - 11h - 640x480 (graphics, 2 colors) [A000]
- - 12h - 640x480 (graphics, 16 colors) [A000]
- - 13h - 320x200 (graphics, 256 colors) [A000]
+ - 01h - 40x25   (text mode, 16 colors) [B800] <br>
+ - 03h - 80x25   (text mode, 16 colors, default in DOS) [B800] <br>
+ - 11h - 640x480 (graphics, 2 colors) [A000] <br>
+ - 12h - 640x480 (graphics, 16 colors) [A000]<br>
+ - 13h - 320x200 (graphics, 256 colors) [A000]<br>
  
  01h - 13h -- це відеорежим. <br>
  40x25 | 80x25 | 640x480 -- це розмір екрану. <br>
