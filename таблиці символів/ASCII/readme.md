@@ -1,6 +1,6 @@
 screenshots from emu8086
 <br>
-back - backspace
-newl - new line
-cret - carriage return
-spa - space
+back - backspace<br>
+newl - new line<br>
+cret - carriage return<br>
+spa - space<br>
